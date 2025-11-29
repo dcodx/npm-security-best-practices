@@ -232,7 +232,7 @@
 
 **Report to npm security team**
 
-- [ ] Email: [security@npmjs.com](mailto\:security@npmjs.com) or submit via the [npm Advisory Form](https://www.npmjs.com/advisories/report).
+- [ ] Email: [security@npmjs.com](mailto\:security@npmjs.com) or submit via the [npm Advisory Form]([https://www.npmjs.com/advisories/report](https://docs.npmjs.com/reporting-malware-in-an-npm-package)).
 
 ---
 
